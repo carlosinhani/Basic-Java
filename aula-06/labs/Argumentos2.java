@@ -4,3 +4,4 @@ class Argumentos2 {
     System.out.println("Ola Mundo!" + args [0]);
   }
 }
+
